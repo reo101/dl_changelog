@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 
 TARGET="${TARGET:-$HOME/Downloads}"
 PREFER_WGET="${PREFER_WGET:-no}"
